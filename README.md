@@ -14,42 +14,70 @@ En la función main se define un bucle while en el cual se lee constantemente la
 ## Callbacks en Python 
 En este caso se obtuvieron las salidas: 
   1. PS C:\Users\c4leb\.vscode\python\Pruebas> python -u "c:\Users\c4leb\.vscode\python\Pruebas\datamanager.py"
+   
    Datos en tiempo real actualizados: {'temperatura': 24.503336252926577, 'humedad': 58.55561934231239}
+
    Datos en tiempo real actualizados: {'temperatura': 24.86942574751851, 'humedad': 59.735507041396275}
+   
    Datos en tiempo real actualizados: {'temperatura': 25.055239439413278, 'humedad': 59.1039008906405}
+   
    Datos en tiempo real actualizados: {'temperatura': 25.09428882264794, 'humedad': 58.907983514597134}
 
    Programa terminado.
+   
   2. PS C:\Users\c4leb\.vscode\python\Pruebas> python -u "c:\Users\c4leb\.vscode\python\Pruebas\datamanager.py"
+
    Datos en tiempo real actualizados: {'temperatura': 24.880214946962735, 'humedad': 60.88190002581447}
+
    Datos en tiempo real actualizados: {'temperatura': 24.667256688492557, 'humedad': 60.833266138622285}
+   
    Datos en tiempo real actualizados: {'temperatura': 24.33768537453754, 'humedad': 62.793167960973854}
+
 
    Programa terminado.
 
 ## Funciones Lambda en Python
 para este enunciado se obtuvieron los siguientes salidas:
+
   1. PS C:\Users\c4leb\.vscode\python\Pruebas> python -u "c:\Users\c4leb\.vscode\python\Pruebas\calc.py"
+     
    Ingrese un numero: 10
+
    Ingrese otro numero: 10
+   
    Elija una operacion (+, -, *, /) o escriba 'exit' para salir: -
 
    Calculando...
+   
    Resultado: 0.0
+   
   2. PS C:\Users\c4leb\.vscode\python\Pruebas> python -u "c:\Users\c4leb\.vscode\python\Pruebas\calc.py"
+     
    Ingrese un numero: 100
+   
    Ingrese otro numero: 50
+   
    Elija una operacion (+, -, *, /) o escriba 'exit' para salir: *
+   
 
    Calculando...
+
    Resultado: 5000.0
+   
   3. PS C:\Users\c4leb\.vscode\python\Pruebas> python -u "c:\Users\c4leb\.vscode\python\Pruebas\calc.py"
+     
    Input invalido. Por favor ingrese numeros.
+   
    Ingrese un numero: 15
+   
    Ingrese otro numero: 25
+   
    Elija una operacion (+, -, *, /) o escriba 'exit' para salir: -
+   
 
    Calculando...
+   
    Resultado: -10.0
+   
 
    
